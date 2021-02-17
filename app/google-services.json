@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "504360927155",
+    "firebase_url": "https://cwph-df785.firebaseio.com",
+    "project_id": "cwph-df785",
+    "storage_bucket": "cwph-df785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504360927155:android:d804d70202392c9da015c6",
+        "android_client_info": {
+          "package_name": "com.shaswat.kumar.cwph_lusip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504360927155-6cl94p409b0qusth4ev0619bjbsoitpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shaswat.kumar.cwph_lusip",
+            "certificate_hash": "8231b9820939b5e7cded5a82a9ba4ff093d4ec6e"
+          }
+        },
+        {
+          "client_id": "504360927155-av0le36mknidj0rod1ep5dmiacfk09tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzyM-DoR1iIZS8svGbo4IY93QoFTlmhNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504360927155-av0le36mknidj0rod1ep5dmiacfk09tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
